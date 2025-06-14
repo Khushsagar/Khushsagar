@@ -20,7 +20,7 @@
 <a href="https://twitter.com/khush sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khush sagar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mr. khush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr. khush" height="30" width="40" /></a>
 <a href="https://fb.com/khush sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khush sagar" height="30" width="40" /></a>
-<a href="https://instagram.com/they_callmekhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="they_callmekhush" height="30" width="40" /></a>
+<a href="https://instagram.com/they_callmekhush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theycallme_khush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
